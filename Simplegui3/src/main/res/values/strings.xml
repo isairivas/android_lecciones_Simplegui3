@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simplegui3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mensaje_edit">Ingresa un Texto</string>
+    <string name="nombre">Ingresa tu Nombre</string>
+    <string name="saludar">Saludar</string>
+</resources>
